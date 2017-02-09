@@ -1,0 +1,13 @@
+#this is the git ignore file
+
+*.swp
+
+*~
+
+*#
+
+*.class
+
+\#*
+
+~*
